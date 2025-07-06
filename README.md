@@ -58,7 +58,7 @@ The notebook explores:
 
 A 5-minute demo video explaining the code, findings, and approach is available here:
 
-📽️ [Video Demo](https://your-video-link.com)
+📽️ [Video Demo] https://drive.google.com/file/d/1fEXwa2WrrNyUXM_lTB32GehotzVNfIZ9/view?usp=sharing
 
 ---
 
